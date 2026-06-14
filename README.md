@@ -1,4 +1,4 @@
-````md
+
 # Portfolio CMS
 
 A full-stack portfolio content management system (CMS) built using React, Node.js, Express, and MongoDB.
@@ -240,4 +240,4 @@ See the LICENSE file for full details.
 
 **Sahil**  
 MERN Stack Developer | Full Stack Developer
-````
+
